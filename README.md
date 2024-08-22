@@ -46,8 +46,9 @@ To run the project, you need to install the following Python libraries:
 - keras (for LSTM)
 
 You can install the required packages using:
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn keras
+```
+$ pip install pandas numpy matplotlib seaborn scikit-learn keras
+```
 
 ## Exploratory Data Analysis (EDA)
 The project begins with an EDA to understand the dataset, visualize correlations, and identify any missing values. Various plots such as correlation matrix, histograms, and box plots are used to analyze the data.
