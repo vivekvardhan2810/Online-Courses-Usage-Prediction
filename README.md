@@ -36,6 +36,8 @@ The dataset used in this project contains features such as:
 
 *Note: Replace `feature1`, `feature2`, etc., with the actual column names from your dataset.*
 
+**Credits**: https://www.kaggle.com/datasets/mitul1999/online-courses-usage-and-history-dataset
+
 ## Requirements
 To run the project, you need to install the following Python libraries:
 - pandas
